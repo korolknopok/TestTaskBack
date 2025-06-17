@@ -1,0 +1,11 @@
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Domain\bin\Debug\net9.0\MCC.TestTask.Domain.deps.json
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Domain\bin\Debug\net9.0\MCC.TestTask.Domain.dll
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Domain\bin\Debug\net9.0\MCC.TestTask.Domain.pdb
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Domain\obj\Debug\net9.0\MCC.TestTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Domain\obj\Debug\net9.0\MCC.TestTask.Domain.AssemblyInfoInputs.cache
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Domain\obj\Debug\net9.0\MCC.TestTask.Domain.AssemblyInfo.cs
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Domain\obj\Debug\net9.0\MCC.TestTask.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Domain\obj\Debug\net9.0\MCC.TestTask.Domain.dll
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Domain\obj\Debug\net9.0\refint\MCC.TestTask.Domain.dll
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Domain\obj\Debug\net9.0\MCC.TestTask.Domain.pdb
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Domain\obj\Debug\net9.0\ref\MCC.TestTask.Domain.dll

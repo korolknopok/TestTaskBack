@@ -1,0 +1,12 @@
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Infrastructure\bin\Debug\net9.0\MCC.TestTask.Infrastructure.deps.json
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Infrastructure\bin\Debug\net9.0\MCC.TestTask.Infrastructure.dll
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Infrastructure\bin\Debug\net9.0\MCC.TestTask.Infrastructure.pdb
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Infrastructure\obj\Debug\net9.0\MCC.TestTask.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Infrastructure\obj\Debug\net9.0\MCC.TestTask.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Infrastructure\obj\Debug\net9.0\MCC.TestTask.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Infrastructure\obj\Debug\net9.0\MCC.TestTask.Infrastructure.AssemblyInfo.cs
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Infrastructure\obj\Debug\net9.0\MCC.TestTask.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Infrastructure\obj\Debug\net9.0\MCC.TestTask.Infrastructure.dll
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Infrastructure\obj\Debug\net9.0\refint\MCC.TestTask.Infrastructure.dll
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Infrastructure\obj\Debug\net9.0\MCC.TestTask.Infrastructure.pdb
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Infrastructure\obj\Debug\net9.0\ref\MCC.TestTask.Infrastructure.dll

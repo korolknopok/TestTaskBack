@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MCC.TestTask.Domain/1.0.0": {
+        "runtime": {
+          "MCC.TestTask.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MCC.TestTask.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Persistence\bin\Debug\net9.0\MCC.TestTask.Persistence.deps.json
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Persistence\bin\Debug\net9.0\MCC.TestTask.Persistence.dll
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Persistence\bin\Debug\net9.0\MCC.TestTask.Persistence.pdb
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Persistence\bin\Debug\net9.0\MCC.TestTask.Domain.dll
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Persistence\bin\Debug\net9.0\MCC.TestTask.Domain.pdb
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Persistence\obj\Debug\net9.0\MCC.TestTask.Persistence.csproj.AssemblyReference.cache
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Persistence\obj\Debug\net9.0\MCC.TestTask.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Persistence\obj\Debug\net9.0\MCC.TestTask.Persistence.AssemblyInfoInputs.cache
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Persistence\obj\Debug\net9.0\MCC.TestTask.Persistence.AssemblyInfo.cs
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Persistence\obj\Debug\net9.0\MCC.TestTask.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Persistence\obj\Debug\net9.0\MCC.Test.7666BDBF.Up2Date
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Persistence\obj\Debug\net9.0\MCC.TestTask.Persistence.dll
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Persistence\obj\Debug\net9.0\refint\MCC.TestTask.Persistence.dll
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Persistence\obj\Debug\net9.0\MCC.TestTask.Persistence.pdb
+C:\Users\Artem Nazmutdinov\Desktop\backend\src\MCC.TestTask\MCC.TestTask.Persistence\obj\Debug\net9.0\ref\MCC.TestTask.Persistence.dll
