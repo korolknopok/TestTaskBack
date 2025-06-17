@@ -19,22 +19,26 @@ public class MailJobService
 
     public Result NotifySubscribersAboutNewPost(Guid postId)
     {
-        return Result.Ok(); // doesn't work anyway, fix it later
-        
         var post = _blogDbContext.Posts
-            .FirstOrDefault(p => p.Id == postId && p.Community != null);
+            .Include(p => p.Community)
+            .ThenInclude(c => c.Subscribers)
+            .Include(p => p.Author)
+            .FirstOrDefault(p => p.Id == postId);
 
-        if (post == null)
+        if (post == null || post.Community == null)
             return CustomErrors.ValidationError("Post not found or doesn't have a Community");
 
-        var mailSubject = $"New post from {post.Author.FullName} in {post.Community!.Name}";
+        var mailSubject = $"New post from {post.Author.FullName} in {post.Community.Name}";
+        var mailBody = $"{post.Title}:\n{post.Description}";
 
-        var mailBody = post.Title + ":\n" + post.Description;
-
-        foreach (var subscriber in post.Community!.Subscribers)
-            _backgroundJobClient.Enqueue<MailingService>(j =>
-                j.SendMail(subscriber.FullName, subscriber.Email, mailSubject, mailBody));
-
+        foreach (var subscriber in post.Community.Subscribers)
+        {
+            if (!string.IsNullOrEmpty(subscriber.Email))
+            {
+                _backgroundJobClient.Enqueue<MailingService>(j =>
+                    j.SendMail(subscriber.FullName, subscriber.Email, mailSubject, mailBody));
+            }
+        }
         return Result.Ok();
     }
 }
