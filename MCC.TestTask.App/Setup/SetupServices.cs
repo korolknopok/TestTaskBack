@@ -33,6 +33,7 @@ public static class SetupServices
         services.AddScoped<MailJobService>();
         services.AddScoped<MailingService>();
         services.AddScoped<ISmtpClient, SmtpClient>();
+        services.AddHttpContextAccessor();
 
         services.Configure<MailingServiceOptions>(configuration.GetSection("MailingService"));
     }
